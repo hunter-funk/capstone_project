@@ -36,8 +36,8 @@ body{
     width: 70%;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
     text-align: center;
     color: rgb(235, 235, 235);
     border-style: double;
@@ -46,8 +46,8 @@ body{
     background-color: rgba(0, 0, 0, 0.75);
 }
 #mission_statement{
-    margin-left: 5em;
-    margin-right: 5em;
+    margin-left: 2em;
+    margin-right: 2em;
 }
 
 /* DEV STYLES */
