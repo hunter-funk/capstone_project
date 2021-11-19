@@ -12,21 +12,16 @@ function change(x){
 
 var gameInfo = [
     // Story information
-    "Our story takes place in a city-state called Terrend built into the side of a large moutain " +
-    "where the higher up the face of the mountain you live, the higher standard of living you have. " +
-    "Your family has lived in the lower sectors, the Rubble Yard, for generations and now struggle " +
-    "with the coming plague striking the less fortunate citizens of the lower sectors. With the money " +
-    "you can spare, you leave home to purchase medicine for your younger sibling once they become ill. " +
-    "After sneaking your way into the middle sector to purchase medicine from the apothecary, you get " +
-    "caught up in a series of unfortunate events, framed for stealing the medication, face trial, and " +
-    "imprisoned to the Mines. Down below Terrend, you meet other prisoners who have given themselves " +
-    "the collective name, \"Gravediggers\" since no one has seen the light of day since imprisonment " +
-    "and have to continue digging below the city until their deaths. They have built their own self-" +
-    "sufficient community on the first floor above what they call \"The Crypt,\" where monsters and " +
-    "ancient traps remain below. However, there is something buried deep in The Crypt that the " +
-    "government desparately wants, and if someone were to find it, their life sentence would be lifted. " +
-    "With the hope of finding whatever is buried below, you choose to dig and return back to your family " +
-    "on the surface.",
+    `
+    <i>CyberPunk 2077</i> was CD Projekt RED's highly anticipated first-person, open-world RPG shooter released in
+    December 2020. After countless delays and gameplay trailers, expectations were set extrememly high, by investors
+    and players alike. However, soon after release it was blatantly obvious that the game being advertised was not the
+    one being delivered. With bugged artificial intelligence, taxing computer system requirements, surface level 
+    storytelling, and mediocre gameplay, CyberPunk was a commercial failure. So much so that Playstation and Microsoft
+    had removed the digital copy from their online marketplaces and even offered full refunds.
+    <img src="pictures/CP2077_review.png" width=80% >
+    
+    `,
 
     // Genre information
     "True to the genre, expect hours of 2D side-scrolling action and exploration. Brave dangerous monsters, " +
@@ -59,5 +54,6 @@ var gameInfo = [
 
 // array to change the game_head title
 var gameHead = [
-    "Story", "Metroidvania", "Characters", "Official Release Date!", "Become a Supporter"
+    "<i>CyberPunk 2077's</i> Poor Management", "<i>No Man's Sky</i> Marketing", "<i>Hollow Knight's</i> Crowdfund", 
+    "<i>Bloodstained's</i> Player Feedback", "<i>Warframe's</i> Developer Streams"
 ]

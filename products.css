@@ -16,6 +16,10 @@ body{
     text-align: center;
 }
 
+#about_game::-webkit-scrollbar {
+    display: none;
+  }
+
 /* BACKDROP STYLES */
 #backdrop{
     background-color: rgba(0, 0, 0, .75);
