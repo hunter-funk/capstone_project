@@ -31,7 +31,7 @@ var gameInfo = [
     // Genre information
     "True to the genre, expect hours of 2D side-scrolling action and exploration. Brave dangerous monsters, " +
     "solve complex dungeons, and discover the mystery behind Terrend and its original civilization. Inspired " +
-    "by some of the dev's favorite games, such as: Hollow Knight, Legend of Zelda, and Metroid Fusion. " +
+    "by some of the developers' favorite games, such as: Hollow Knight, Legend of Zelda, and Metroid Fusion. " +
     "Metroidvania titles are 2D side-scrolling action adventure games inspired by the original Metroid and " +
     "Castelvania games. Whether you are a veteran or newcomer, Project: Cryptovania will include a multitude " +
     "of game mechanics. Through exploration, you will find new materials to upgrade your gear to make cutting " +
